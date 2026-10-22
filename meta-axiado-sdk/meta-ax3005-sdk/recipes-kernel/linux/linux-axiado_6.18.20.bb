@@ -1,5 +1,5 @@
 # BU2A-559
-SRCREV = "d3ad87f49f72fb0bda9d0ba258599c45e34fa698"
+SRCREV = "6eadec8773aab85f19ead718d4bc3dfe79f44da8"
 SRCBRANCH = "release/release-u-0.2.0"
 SRC_URI = "git://bitbucket.org/ax-engg/kernel-6.18.git;protocol=https;branch=${SRCBRANCH}"
 SRC_URI += "file://0001-Enable-ARM-TrustZone.patch \
